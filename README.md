@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kevin-shitaye
+# 👋 Hi, I’m Kevin
 
 
 <table>
