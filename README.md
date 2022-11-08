@@ -27,7 +27,6 @@
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevin-shitaye&theme=dracula&hide_border=true)
-https://img.shields.io/github/pipenv/locked/python-version/kevin-shitaye/python-logo
 <!---
 kevin-shitaye/kevin-shitaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
